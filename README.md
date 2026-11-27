@@ -89,4 +89,8 @@ isabelalmeidamph@proton.me
 
 License: Documentation and data in this repository are licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Please credit “Isabel Pereira de Almeida, MPH, Michigan Hospital Price Transparency Project.” For commercial use, contact isabelalmeidamph@proton.me.
 
+## License-Code
+
+License: Code in this repository is licensed under PolyForm Noncommercial License 1.0.0. Please credit “Isabel Pereira de Almeida, MPH, Michigan Hospital Price Transparency Project.” For commercial use, contact isabelalmeidamph@proton.me.
+
 See [CHANGELOG.md](CHANGELOG.md) for a dated log of updates.
