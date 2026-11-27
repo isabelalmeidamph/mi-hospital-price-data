@@ -2,6 +2,18 @@
 
 Updates to the Michigan Hospital Price Transparency Project, newest first.
 
+## 2026-11-27
+
+### Rates posted without a dollar amount
+- **Classified all 29.8 million rates that have no dollar figure:**
+  - **Packaged (87%):** the service is paid as part of a stay or visit, such as "bundled into the DRG payment" or "not separately reimbursed."
+  - **Tied to an external fee schedule:** a Medicare, Medicaid or payer fee schedule that the file doesn't include.
+  - **A percentage of a fee schedule:** for example, 100–135% of Medicare.
+  - **A percentage of charges with no charge posted:** mostly inpatient stays, where the total charge isn't known in advance.
+- **Estimated dollar amounts** for about 527,000 rates at 10 hospitals where the file allows it: the percentage of charges × the item's posted gross charge. That is the same calculation hospitals use on the 93 million rates where they post both. One hospital had put dollar amounts in the percentage field, and those were recovered as dollars.
+- **Estimates are kept separate** from posted rates and labeled. They run 2–5 times what other insurers pay for the same items, because percent-of-charges contracts usually belong to small insurers, auto and workers' compensation plans, and out-of-network arrangements.
+- **Excluded:** placeholder gross charges of $0.01.
+
 ## 2026-11-26
 
 ### Access to emergency care
